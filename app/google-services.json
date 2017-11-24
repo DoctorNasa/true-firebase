@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "357317553963",
+    "firebase_url": "https://simpli-a3d61.firebaseio.com",
+    "project_id": "simpli-a3d61",
+    "storage_bucket": "simpli-a3d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357317553963:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357317553963-352o95cgn3e9mtubbcsu61j8hmpjov33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ewNDE3NDsXt63uEaksoWl_wT_eY2Ozc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357317553963:android:a3df915ef63d53e6",
+        "android_client_info": {
+          "package_name": "com.example.roongrojphetkheaw.firebasereal13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357317553963-352o95cgn3e9mtubbcsu61j8hmpjov33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ewNDE3NDsXt63uEaksoWl_wT_eY2Ozc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357317553963:android:ddfedb7314ca367d",
+        "android_client_info": {
+          "package_name": "com.example.jamal.firebaseprofileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357317553963-352o95cgn3e9mtubbcsu61j8hmpjov33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ewNDE3NDsXt63uEaksoWl_wT_eY2Ozc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357317553963:android:c088fa2510c95b0d",
+        "android_client_info": {
+          "package_name": "com.example.roongrojphetkheaw.qzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357317553963-352o95cgn3e9mtubbcsu61j8hmpjov33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ewNDE3NDsXt63uEaksoWl_wT_eY2Ozc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
